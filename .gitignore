@@ -1,0 +1,4 @@
+jenkins-data/*
+!jenkins-data/.gitkeep
+docker-certs/*
+!docker-certs/.gitkeep
